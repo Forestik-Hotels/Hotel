@@ -96,6 +96,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 "/booking/**",
                 "/hotel",
                 "/googleSecurity/**",
+                "/facebookSecurity/**",
                 "/ownSecurity/verifyEmail",
                 "/ownSecurity/updateAccessToken",
                 "/ownSecurity/restorePassword",

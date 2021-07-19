@@ -18,6 +18,7 @@ public final class ErrorMessage {
     public static final String BOOKING_NOT_FOUND_BY_ID = "Booking doesn't exist by this id: ";
     public static final String USER_CREATED = "{greenCity.validation.user.created}";
     public static final String BAD_GOOGLE_TOKEN = "Bad google token";
+    public static final String INVALID_FACEBOOK_TOKEN = "Invalid Facebook auth token";
 
     private ErrorMessage() {
     }
